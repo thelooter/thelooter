@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning RabbitMQ and Kubernetes  
   
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
