@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Lena, a Java Developer 👨‍💻 based in Germany 🚀</div>  
+### <div align="center">I'm a Java Developer 👨‍💻 based in Germany 🚀</div>  
   
 
 - 🔭 I’m currently working on [Tuxcraft](https://tuxcraft.eu)  
