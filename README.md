@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Tuxcraft](https://tuxcraft.eu)  
   
 
-- 🌱 I’m currently learning Kotlin and Kubernetes  
+- 🌱 I’m currently learning Go and Spring Boot  
   
 
 <br/>  
