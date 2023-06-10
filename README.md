@@ -6,10 +6,10 @@
 ### <div align="center">I'm a Java Developer 👨‍💻 based in Germany 🚀</div>
 
 
-- 🔭 I’m currently working on [Tuxcraft](https://tuxcraft.eu) and [Mockbukkit](https://github.com/Mockbukkit/Mockbukkit)
+- 🔭 I’m currently working on [D2Checkpoint](https://d2checkpoint.com/) and [Mockbukkit](https://github.com/Mockbukkit/Mockbukkit)
 
 
-- 🌱 I’m currently learning Go and Spring
+- 🌱 I’m currently learning Go and Ansible
 
 
 - ❓ Ask me about anything related to Spigot and Unit Testing
