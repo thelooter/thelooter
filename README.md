@@ -90,7 +90,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thelooter&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelooter&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact" align="center" /></div>
 <br/> 
 
 <br/>  
