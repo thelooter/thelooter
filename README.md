@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [D2Checkpoint](https://github.com/d2checkpoint-com)  
   
 
-- 🌱 I’m currently learning React and SCSS  
+- 🌱 I’m currently learning Vue and Rust  
   
 
 - ❓ Ask me about anything related to Minecraft Development or Go  
